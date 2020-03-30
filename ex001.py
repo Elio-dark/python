@@ -1,2 +1,2 @@
-msg = 'Olá, Mundo!'
+msg = 'Olá, Mundo! Apredendo Git!'
 print(msg)
